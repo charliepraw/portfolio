@@ -13,8 +13,7 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "About", href: "#about" },
   ],
   socialLinks: [
-    { text: "Twitter", href: "https://github.com/immois/astro-zen" },
-    { text: "LinkedIn", href: "https://github.com/immois/astro-zen" },
+    { text: "LinkedIn", href: "https://www.linkedin.com/in/charlie-prawiro-57b205229/" },
     { text: "Github", href: "https://github.com/immois/astro-zen" },
     { text: "Youtube", href: "https://github.com/immois/astro-zen" },
     { text: "Dribbble", href: "https://github.com/immois/astro-zen" },
@@ -26,7 +25,7 @@ export const SITE_CONFIG: SiteConfig = {
 export const SITE_CONTENT: SiteContent = {
   hero: {
     name: "CHARLIE PRAWIRO",
-    specialty: "Junior frontend Developer",
+    specialty: "Junior Frontend Developer",
     summary:
       "Developer based in Jakarta, Indonesia. I specialize in HTML, CSS, JavaScript, React, and Next.js.",
     email: "charlie.prawiro@gmail.com",
